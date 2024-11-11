@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kuser
+- 👀 I’m interested in all the linux distros and the ai systems/models
+- 🌱 I’m currently learning python/c++
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i hate windows but I need it 😔

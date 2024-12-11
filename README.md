@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kuser
+- 👋 Hi, I’m @Endrx
 - 👀 I’m interested in all the linux distros and ai systems/models
 - 🌱 I’m currently learning python and c++
 - 😄 Pronouns: he/him

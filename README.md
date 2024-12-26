@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Endrx
 - 👀 I’m interested in all the linux distros and ai systems/models
-- 🌱 I’m currently learning python and c++
+- 💻 I’m currently learning python and c++
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i hate windows but I need it 😔
-- 🦂  main developer of the Skorpion_OS distro
+- ⚡ Fun fact: i love debian 12 stable, but arch is not too bad too
+- 🦂 Main developer of the Skorpion_OS distro
+- 🇮🇹 Italian dev

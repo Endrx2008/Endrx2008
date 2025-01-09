@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 High School Student<br>🏫 I.P.S.I.A. Bruno Carniello Brugnera<br>😎 Backend oriented<br>
+📚 High School Student<br>🏫 I.P.S.I.A. Bruno Carniello Brugnera<br>💻 Backend oriented<br>
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]()

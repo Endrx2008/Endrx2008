@@ -4,8 +4,8 @@
 ## 🌐 Socials:
 [![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://www.instagram.com/enryyyy08?utm_source=qr&igsh=ejIxNmd3MGlibmI4)
 [![](https://img.shields.io/badge/Skorpion_os-%23E4405F.svg?logo=Instagram&logoColor=yellow)](https://www.instagram.com/skorpion.os?igsh=MTRvbnpvZm9pOXR3dQ==)
-[![](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/M9ZrXvSr)
-[![](https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/312vhn54guk4pj4kxm4p2qiqxqai?si=kW5FYdFeR7W73sSycKXfew)
+[![](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=black)](https://discord.gg/M9ZrXvSr)
+[![](https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=black)](https://open.spotify.com/user/312vhn54guk4pj4kxm4p2qiqxqai?si=kW5FYdFeR7W73sSycKXfew)
 
 ## 💭 Info:
 

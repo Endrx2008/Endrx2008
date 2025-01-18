@@ -4,6 +4,7 @@
 ## 🌐 Socials:
 [![](https://img.shields.io/badge/Private-%23E4405F.svg?logo=Instagram&logoColor=black)](https://www.instagram.com/enryyyy08?utm_source=qr&igsh=ejIxNmd3MGlibmI4)
 [![](https://img.shields.io/badge/Skorpion_os-%23E4405F.svg?logo=Instagram&logoColor=yellow)](https://www.instagram.com/skorpion.os?igsh=MTRvbnpvZm9pOXR3dQ==)
+[![](https://img.shields.io/badge/Skorpion_os-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/M9ZrXvSr)
 
 ## 💭 Info:
 

@@ -2,7 +2,7 @@
 📚 High School Student<br>🏫 I.P.S.I.A. Bruno Carniello Brugnera<br>💻 Backend oriented<br>
 
 ## 🌐 Socials:
-[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/enryyyy08?utm_source=qr&igsh=ejIxNmd3MGlibmI4)
+[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://www.instagram.com/enryyyy08?utm_source=qr&igsh=ejIxNmd3MGlibmI4)
 [![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=yellow)](https://www.instagram.com/skorpion.os?igsh=MTRvbnpvZm9pOXR3dQ==)
 
 ## 💭 Info:

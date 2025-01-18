@@ -3,7 +3,7 @@
 
 ## 🌐 Socials:
 [![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/enryyyy08?utm_source=qr&igsh=ejIxNmd3MGlibmI4)
-[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/skorpion.os?igsh=MTRvbnpvZm9pOXR3dQ==)
+[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Skorpion_os&logoColor=black)](https://www.instagram.com/skorpion.os?igsh=MTRvbnpvZm9pOXR3dQ==)
 
 ## 💭 Info:
 

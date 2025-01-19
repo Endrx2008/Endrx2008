@@ -7,6 +7,7 @@
 [![](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=black)](https://discord.gg/M9ZrXvSr)
 [![](https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=black)](https://open.spotify.com/user/312vhn54guk4pj4kxm4p2qiqxqai?si=kW5FYdFeR7W73sSycKXfew)
 [![](https://img.shields.io/badge/Proton-%238252FF.svg?logo=proton&logoColor=black)](mailto:miot.enrco3108@proton.me)
+[![](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/endrx2008)
 
 ## 💭 Info:
 

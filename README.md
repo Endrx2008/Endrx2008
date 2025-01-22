@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/Proton-%238252FF.svg?logo=proton&logoColor=black)](mailto:miot.enrco3108@proton.me)
 [![](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=black)](https://t.me/endrx2008)
 [![](https://img.shields.io/badge/Mastodon-%233A3939.svg?logo=mastodon&logoColor=black)](https://mas.to/@endrx2008)
-![](https://img.shields.io/badge/Pixelfed-%23222.svg?logo=pixelfed&logoColor=black)
+[![](https://img.shields.io/badge/Pixelfed-%23222.svg?logo=pixelfed&logoColor=black)](https://pixelfed.social/@endrx2008)
 
 ## 💭 Info:
 

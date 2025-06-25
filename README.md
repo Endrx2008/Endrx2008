@@ -5,7 +5,6 @@
 [![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://www.instagram.com/enryyyy08?utm_source=qr&igsh=ejIxNmd3MGlibmI4)
 [![](https://img.shields.io/badge/Skorpion_os-%23E4405F.svg?logo=Instagram&logoColor=yellow)](https://www.instagram.com/skorpion.os?igsh=MTRvbnpvZm9pOXR3dQ==)
 [![](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=black)](https://discord.gg/M9ZrXvSr)
-[![](https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=black)](https://open.spotify.com/user/312vhn54guk4pj4kxm4p2qiqxqai?si=kW5FYdFeR7W73sSycKXfew)
 [![](https://img.shields.io/badge/Proton-%238252FF.svg?logo=proton&logoColor=black)](mailto:miot.enrco3108@proton.me)
 [![](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=black)](https://t.me/endrx2008)
 [![](https://img.shields.io/badge/Mastodon-%233A3939.svg?logo=mastodon&logoColor=black)](https://mas.to/@endrx2008)

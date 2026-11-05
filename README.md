@@ -14,7 +14,7 @@
 Skorpion_os founder and maintainer.
 
 - 📍 Based in **friuli italia**
-- 🌐 [Website](skossite.pages.dev)
+- 🌐 [Website](https://skossite.pages.dev)
 
 *<< Ai as a butler not a master. >>*
 

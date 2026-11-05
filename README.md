@@ -36,8 +36,6 @@ Skorpion_os founder and maintainer.
   <img src="https://www.gitskins.com/api/section/social?username=endrx2008&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188089043%3Fu%3Dbff8667362ea9f0f3f9e43cb1c901f510da7a0c1%26v%3D4" alt="endrx2008 social visual" />
 </p>
 
-<a href="https://github.com/endrx2008">GitHub</a> · <a href="https://skossite.pages.dev">Website</a>
-
 ## Activity
 
 <p align="center">
